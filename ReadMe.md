@@ -32,13 +32,13 @@ When the application has opened, you have the option of immediately downloading 
 
 ## Screenshots
 Web browser mode:
-![web browser](./img/Screenshot%20(67).png)
+![web browser](./img/Screenshot%20(74).png)
 
 Download Option:
-![download option](./img/Screenshot%20(68).png)
+![download option](./img//Screenshot%20(75).png)
 
-App Mode:
-![app mode](./img/Screenshot%20(69).png)
+App Mode / Service Worker:
+![app mode service workers](./img/Screenshot%20(76).png)
 
 
 ## Contacts
